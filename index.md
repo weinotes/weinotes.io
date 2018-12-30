@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 王光卫博客
 
-You can use the [editor on GitHub](https://github.com/wgwlaw/weinotes.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+王光卫博客使用WordPress程序! 王光卫博客,研究市场营销在不同历史时期的管理变革,传播营销管理知识与技能,分享独特的营销管理文化及理念,提供最值得信赖的市场营销资源。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+中文网址：https://www.weinotes.com
+
+英文网址：https://en.weinotes.com
 
 ### Markdown
 
